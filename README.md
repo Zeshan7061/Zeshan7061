@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Graduated in Computer Science from Government College University, Lahore.
 - 💼 &nbsp; Working as a student and web developer.
 - 🌱 &nbsp; Learning  Web Development (Full Stack), Software Designs & Programming.
-- ✍️ &nbsp; Pursuing Graphic Designing.
+- ✍️ &nbsp; Pursuing Full Stack Web Development, Graphic Designing.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
