@@ -50,10 +50,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.zeeshanaslam.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/zeshan-aslam-5565a212a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/innocent_xeshan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:zeshan7061@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.zeeshanaslam.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.zeeshanaslam.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/zeshan-aslam-5565a212a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zeshan%20Aslam-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/innocent_xeshan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-innocent_xeshan-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:zeshan7061@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zeshan7061@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Zeshan7061](https://github.com/Zeshan7061)
