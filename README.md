@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-<img src="https://avatars0.githubusercontent.com/u/32492608?s=400&u=15ff55b04611c3460c93306e2893d082333a5eff&v=4" />
+/* <img src="https://avatars0.githubusercontent.com/u/32492608?s=400&u=15ff55b04611c3460c93306e2893d082333a5eff&v=4" /> */
 <h2> Hi there! I'm Zeeshan Aslam.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
