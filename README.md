@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Zeeshan Aslam.</h2>
+<h2> Hi there! I'm Zeeshan Aslam.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing scaleable web applications.
 - 🎓 &nbsp; Graduated in Computer Science from Government College University, Lahore.
 - 💼 &nbsp; Working as a student and web developer.
-- 🌱 &nbsp; Learning Software Designs, Web Development (Full Stack) .
-- ✍️ &nbsp; Pursuing Graphic Design.
+- 🌱 &nbsp; Learning  Web Development (Full Stack), Software Designs & Programming.
+- ✍️ &nbsp; Pursuing Graphic Designing.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,7 +38,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![CorelDraw](https://img.shields.io/badge/-Colredraw-333333?style=flat&logo=corel-draw)
+  ![CorelDraw](https://img.shields.io/badge/-Coreldraw-333333?style=flat&logo=corel-draw)
   
 <br/>
 
